@@ -10,4 +10,4 @@ Convert IPython notebook into reveal.js slides:
 
 ::
     
-    $ python nbconvert --to slides import_import.ipynb 
+    $ ipython nbconvert --to slides import_import.ipynb 
