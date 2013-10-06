@@ -1,0 +1,6 @@
+syntax: glob
+
+.ipynb_checkpoints
+*.slides.html
+develop.sh
+notes
