@@ -1,7 +1,7 @@
 import import
 =============
 
-This is a presentation about import machinery in the Python langugae.
+This is a presentation about import machinery in the Python language.
 
 How to build
 ============
