@@ -4,3 +4,4 @@ syntax: glob
 *.slides.html
 develop.sh
 notes
+*.pyc
